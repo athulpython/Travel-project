@@ -1,6 +1,6 @@
 # Travel project
 
-![App Screenshot](https://github.com/athulpython/travelproject-/blob/master/screeshot/Screenshot%20(52).png?raw=true)
+![App Screenshot](https://github.com/athulpython/Travel-project/blob/master/screeshot/Screenshot%20(52).png?raw=true)
  
  
  ### ~This Travel project website for finding a Travel destinations and packages .
@@ -36,8 +36,8 @@
 
 ### Homepage interface
 
-![App Screenshot](https://github.com/athulpython/travelproject-/blob/master/screeshot/screencapture-127-0-0-1-8000-2022-10-09-14_18_08.png?raw=true)
-![App Screenshot](https://github.com/athulpython/travelproject-/blob/master/screeshot/screencapture-127-0-0-1-8000-2022-10-09-14_11_51.png?raw=true)
+![App Screenshot](https://github.com/athulpython/Travel-project/blob/master/screeshot/screencapture-127-0-0-1-8000-2022-10-09-14_15_54.png?raw=true)
+![App Screenshot](https://github.com/athulpython/Travel-project/blob/master/screeshot/screencapture-127-0-0-1-8000-2022-10-09-14_11_51.png?raw=true)
 
 
 
