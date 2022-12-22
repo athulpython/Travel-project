@@ -1,7 +1,15 @@
 # Travel project
 
 ![App Screenshot](https://github.com/athulpython/travelproject-/blob/master/screeshot/Screenshot%20(52).png?raw=true)
-Travel site for Booking destinations and packages with offer price.
+ 
+ 
+ ### ~This Travel project website for finding a Travel destinations and packages .
+ 
+ ### ~The website was built using an external HTML template.
+ 
+ ### ~Authentications register , login , logout
+
+
 
 ### Frontend
 
